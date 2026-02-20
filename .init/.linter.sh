@@ -1,0 +1,4 @@
+#!/bin/bash
+cd /home/kavia/workspace/code-generation/flutter-starter-template-10274-10283/frontend_flutter
+flutter analyze
+
